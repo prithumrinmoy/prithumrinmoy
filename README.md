@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Md Ohidur Rahman</h1>
+<h1 align="center">Hi 👋, I'm Mr Prithu Mrinmoy</h1>
 <h3 align="center">Senior Graphic Designer & MERN Stack Web Developer.</h3>
 
 - 🔭 I’m currently working on [Sigma Care](https://sigmacare-hospital.netlify.app/)
